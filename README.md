@@ -1,4 +1,4 @@
-# CLS-GIZ3_DAT2_G3-Team-2
+# CLS GIZ3_DAT2_G3-Team-2
 
 ## Team Members:-
 - **Belal Saed**
