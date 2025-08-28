@@ -1,4 +1,4 @@
-# CLS GIZ3_DAT2_G3 MTA Daily Ridership Project
+# CLS GIZ3_DAT2_G3 ( MTA Daily Ridership Project )
 
 ## Team Members:-
 - **Belal Saed**
