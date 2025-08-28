@@ -2,7 +2,7 @@
 
 ## Team Members:-
 - **Belal Saed**
-- **Alla ElHariry**
+- **Alaa ElHariry**
 - **Shrouk ElNagdy**
 - **Esraa Hassan**
 - **Hanna Ramzy**
