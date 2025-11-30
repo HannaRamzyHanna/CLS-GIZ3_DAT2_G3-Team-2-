@@ -19,6 +19,20 @@ Comprehensive analysis of Egypt's economic performance compared to global, Afric
 - Power BI Desktop
 - Basic understanding of economic indicators
 
+## Project Structure
+
+### Pages:
+1. **Global Dashboard** - Overview
+2. **Map** - Geographical distribution
+3. **Country Comparison** - Direct comparisons
+4. **Egypt Vs World** - Competitive positioning
+5. **Egypt in Numbers** - Percentage shares
+
+### Data Sources:
+- World Bank
+- IMF
+- Central Bank of Egypt
+
 
 
 ## Presentation:-
