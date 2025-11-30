@@ -43,3 +43,6 @@ https://drive.google.com/file/d/1No3qK3Xn1WJKg3i-Vl4mpyufpl9sb8F8/view?usp=shari
 
 ## Dataset file:-
 https://docs.google.com/spreadsheets/d/16m3m11vLyo4mZKUicpWOYXJeo6T10yGh/edit?usp=sharing&ouid=108728260446511190082&rtpof=true&sd=true
+
+## Dashboard view:-
+https://docs.google.com/presentation/d/1-YdDI7brdkuyZjQ8xx1gQVtHzn1wfKBk4jnG29z4d_k/edit?usp=sharing
