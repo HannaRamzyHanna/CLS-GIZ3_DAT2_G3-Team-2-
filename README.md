@@ -1,5 +1,25 @@
 # CLS GIZ3_DAT2_G3 ( Made in Egypt )
 
+# Egypt Economic Analysis - Power BI Dashboard
+
+## 📊 Project Overview
+Comprehensive analysis of Egypt's economic performance compared to global, African, and regional competitors.
+
+## 🎯 Key Features
+- 5 interactive pages
+- 173 countries analysis
+- 22 economic indicators
+- Triple-level comparison: Global, African, Arab
+
+## 📁 Files
+- Main Power BI file
+- Raw data (optional)
+
+## 🔧 Requirements
+- Power BI Desktop
+- Basic understanding of economic indicators
+
+
 ## Team Members:-
 - **Hanna Ramzy**
 
